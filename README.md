@@ -17,4 +17,4 @@ A list of conferences in Australia & NZ. There are many others like it. This one
 # Australia #
 | Name                       | CFP Close  | Event Date Start | Event Date End |
 | -------------------------- | ---------- | ---------------- | -------------- |
-| NZ Tech Rally              | 03/07/2026 | 27/08/2026       | 28/08/2026     |
+| NZ Tech Rally              | TBD        | TBD              | N/A            |
