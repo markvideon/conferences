@@ -14,7 +14,7 @@ A list of conferences in Australia & NZ. There are many others like it. This one
 | NDC Sydney                 | TBD        | TBD              | N/A            |
 | DDD Melbourne              | TBD        | TBD              | N/A            |
 
-# Australia #
+# New Zealand #
 | Name                       | CFP Close  | Event Date Start | Event Date End |
 | -------------------------- | ---------- | ---------------- | -------------- |
 | NZ Tech Rally              | TBD        | TBD              | N/A            |
